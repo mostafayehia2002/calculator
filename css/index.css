@@ -47,7 +47,7 @@ section {
 
 /*start buttons style*/
 .buttons {
-    height: 300px;
+    height: 320px;
     width: 298px;
     display: flex;
     flex-direction: row;
@@ -69,7 +69,7 @@ button {
 /*end buttons style*/
 /*start button = style*/
 #result {
-    height: 60px;
+    height: 59px;
     width: 20%;
     color: white;
     background-color:var(--background-color);
