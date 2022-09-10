@@ -43,6 +43,7 @@ icon.onclick = function () {
     icon.style.color = "orange";
     section.style.backgroundColor = "black";
     input.style.color = "white";
+    document.body.style.backgroundColor="black";
     for (let x = 0; x < sp.length; x++) {
       sp[x].style.color = "white";
     }
@@ -54,6 +55,7 @@ icon.onclick = function () {
     icon.style.color = "black";
     section.style.backgroundColor = "white";
     input.style.color = "black";
+       document.body.style.backgroundColor="white";
     for (let x = 0; x < sp.length; x++) {
       sp[x].style.color = "black";
     }
