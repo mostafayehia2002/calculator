@@ -16,6 +16,7 @@ section {
     left: 40%;
     top: 20%;
     border: .1px solid var(--color);
+    border-radius: 20px;
 
 }
 
